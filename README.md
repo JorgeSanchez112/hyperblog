@@ -6,3 +6,4 @@ Un blog increible para el curso de Git y Github de platzi
 * El flujo de trabajo de Github.
 * El verdadero amor por las buenas practicas ❤.
 * Incluye ejemplos en window linux y mac.
+* Disponible para todas las edades.
